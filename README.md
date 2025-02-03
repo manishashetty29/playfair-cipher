@@ -1,5 +1,5 @@
 # PLAYFAIR CIPHER
-# Playfair Cipher Encryption & Decryption
+
 
 This repository contains a Python program that implements the **Playfair Cipher** to encrypt and decrypt text. The code is designed to be executed in **Google Colab** and can be cloned from GitHub for local execution.
 
